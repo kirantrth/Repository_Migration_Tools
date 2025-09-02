@@ -1,0 +1,5 @@
+Youtube reference for cvs to git migration:
+https://www.youtube.com/watch?v=r1L-agk3pcg 
+
+http://clusterfrak.com/devops/git/git_cvs2git/ 
+
